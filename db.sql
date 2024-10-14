@@ -21,10 +21,10 @@ create table result(
 insert into student values(2,'bhushan','9421444629');
 insert into student values(1,'sarthak','545864513');
 insert into student values(3, 'jayesh', '123456789');
-insert into student values(4, 'prerana','111111111');
+
 
 SELECT * FROM STUDENT;
 
 
-insert into result (result_id, student_id,score, date_taken) values(3,3, 90,'2024-2-23');
+
 select * from result; 
